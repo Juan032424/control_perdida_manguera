@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Excel/Data (Opcional: puedes comentarlo si SI quieres subir datos de prueba)
+*.xlsx
+*.xls
+*.csv
